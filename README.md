@@ -10,4 +10,4 @@ Arduino
 3D printed sensor holder (cf .f3d file)
 
 **Electronical circuit**
-<img src="Resources/micromanager.png" class="rounded w-100">
+<img src="Heating_electronical_circuit.png">
