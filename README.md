@@ -9,5 +9,5 @@
 * Arduino
 * 3D printed sensor holder (cf sensor_holder.f3d file)
 
-**Electronical circuit**
+**Electronic circuit**
 <img src="Heating_electronical_circuit.png">
