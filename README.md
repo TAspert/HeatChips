@@ -1,4 +1,4 @@
-Upload the .ino on the Arduino if you use it with matlab, using the .m, in order to have plots in realtime. Otherwise, upload _standalone.ino
+Upload the _matlab.ino on the Arduino in order to have plots in realtime thanks to Matlab and the script read_arduino.m. Otherwise, upload _standalone.ino
 
 
 **List of components:**
