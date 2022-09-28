@@ -24,12 +24,10 @@ double set_temperature=30; // Set temperature, in °C
 //***** READING FREQUENCY, CHANGE IT IN THE LINES BELOW *****//
 int readfreq=10; //The probe reads the temperature every second for readfreq seconds, averages the value, and send it to the PWN output computation. Decreasing this value would increase temporal resolution and modify the Integral response (I parameter would need to be adapted)
 
-//
-double maxtemp=40; //maximum object temperature allowed before considering it as aberrant measurment
 //************************END OF CUSTOMISATION******************************//
 
 
-int PWM_pin=3; // Pin to which the PWM output is sent. Connect this pin to the MOSFET gate
+int PWM_pin=11; // Pin to which the PWM output is sent. Connect this pin to the MOSFET gate
 int Vref=5;
 double temperature_read;
 double temperature_mean;
